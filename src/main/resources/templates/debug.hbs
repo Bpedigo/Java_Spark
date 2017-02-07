@@ -1,0 +1,17 @@
+{{#partial "content"}}
+  <h1>Welcome to the debug page!</h1>
+    <h3>The current cookie shows the user name as :</h3>
+    <div class="debug">
+    <p>{{username}}</p>
+    </div>
+    <h3> The curent Ideas are :</h3>
+  <div class="debug">
+  {{#each ideas}}
+      <li>
+          {{ title }}( {{ voteCount }} votes)created by {{creator}}
+      </li>
+  {{/each}}
+  </div>
+{{/partial}}
+
+{{>base.hbs}}

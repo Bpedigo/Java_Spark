@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wate.iml" filepath="$PROJECT_DIR$/.idea/modules/wate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wate_main.iml" group="wate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wate_test.iml" group="wate" />
+    </modules>
+  </component>
+</project>
